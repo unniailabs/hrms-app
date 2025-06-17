@@ -74,6 +74,7 @@ Whoosh
 xhtml2pdf
 XlsxWriter
 gunicorn
+dj-database-url
 psycopg2-binary
 whitenoise
 django-storages
